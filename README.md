@@ -131,7 +131,7 @@ Bước 2: Vào Netbeans chọn Open project và mở project vừa clone về.
 
 Bước 3: Thêm tất cả các thư viện cần thiết trong mục src/External_Library.
 
-Bước 4: Trong src/DataBase có file Database.sql. Tiến hành vào Oracle tạo user mới với Username là Doan và Password là 123, sau đó chạy toàn bộ file Database.sql.
+Bước 4: Trong src/DataBase có file Database.sql. Tiến hành vào Oracle tạo user mới với Username là Tien và Password là 123, sau đó chạy toàn bộ file Database.sql.
 
 Bước 5: Tiến hành chạy run file src/RTDRestaurant/View/Main_Frame/Main_LoginAndRegister.java để chạy chương trình
 
